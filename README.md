@@ -12,6 +12,6 @@
 - 🌱 I’m currently learning front end web development
 - 📫 How to reach me: mrgonci@hotmail.com
 - 😄 Pronouns: Gonci
-- 🔰  [my discord](https://discord.gg/e7r9ZtbxD9) 🔰
+- 🔰  [Join my discord](https://discord.gg/e7r9ZtbxD9) 🔰
 
 ```
