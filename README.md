@@ -14,7 +14,7 @@ Im 16 years old, and i am just a simple java developer although I am learning we
 - 🌱 I’m currently web development
 - 📫 How to reach me: mrgonci@hotmail.com
 - 😄 Pronouns: Gonci
-- :flag_es: From Spain
+- 🇪🇸 From Spain
 - 🔰  [Join my discord](https://discord.gg/e7r9ZtbxD9) 🔰
 
 ```
