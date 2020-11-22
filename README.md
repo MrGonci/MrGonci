@@ -1,4 +1,4 @@
-### 👋 Hi community im MrGonci 👋
+### 💛👋 Hi community im MrGonci 👋💛
 
 <!--
 **MrGonci/MrGonci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,8 +8,10 @@
 **- ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on GamesMadeInPola
+- 🔭 I’m currently working on GamesMadeInPola 
 - 🌱 I’m currently learning front end web development
 - 📫 How to reach me: mrgonci@hotmail.com
 - 😄 Pronouns: Gonci
+- 🔰  [my discord](https://discord.gg/e7r9ZtbxD9) 🔰
 
+```
