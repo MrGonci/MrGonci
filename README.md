@@ -6,11 +6,10 @@
 **- 🤔 I’m looking for help with ...
 **- 💬 Ask me about ...
 **- ⚡ Fun fact: ...
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on GamesMadeInPola
 - 🌱 I’m currently learning front end web development
 - 📫 How to reach me: mrgonci@hotmnail.com
 - 😄 Pronouns: Gonci
--->
+
