@@ -1,6 +1,6 @@
 ### 💛👋 Hi community im MrGonci 👋💛
 
-Im 16 years old and im from Spain 💖💛💖. 
+Im 16 years old and im from Spain 💖💛💖. <br>
 I am just a simple java developer although I am learning web development
 
 <!--
