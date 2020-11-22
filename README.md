@@ -10,6 +10,6 @@
 
 - 🔭 I’m currently working on GamesMadeInPola
 - 🌱 I’m currently learning front end web development
-- 📫 How to reach me: mrgonci@hotmnail.com
+- 📫 How to reach me: mrgonci@hotmail.com
 - 😄 Pronouns: Gonci
 
