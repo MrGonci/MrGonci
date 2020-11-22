@@ -1,5 +1,7 @@
 ### 💛👋 Hi community im MrGonci 👋💛
 
+Im 16 years old, and i am just a simple java and python developer although I am learning web development
+
 <!--
 **MrGonci/MrGonci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **- 👯 I’m looking to collaborate on ...
