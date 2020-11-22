@@ -11,7 +11,7 @@ Im 16 years old, and i am just a simple java and python developer although I am 
 -->
 
 - 🔭 I’m currently working on GamesMadeInPola 
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently web development
 - 📫 How to reach me: mrgonci@hotmail.com
 - 😄 Pronouns: Gonci
 - 🔰  [Join my discord](https://discord.gg/e7r9ZtbxD9) 🔰
