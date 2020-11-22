@@ -12,7 +12,7 @@ I am just a simple java developer although I am learning web development
 -->
 
 - 🔭 I’m currently working on GamesMadeInPola 
-- 🌱 I’m currently web learning development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me: mrgonci@hotmail.com
 - 😄 Pronouns: Gonci
 - 🔰  [Join my discord](https://discord.gg/e7r9ZtbxD9) 🔰
