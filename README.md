@@ -1,7 +1,8 @@
 ### 💛👋 Hi community im MrGonci 👋💛
 
 Im 16 years old and im from Spain 💖💛💖. <br>
-I am just a simple java developer although I am learning web development
+I am just a simple java developer 👨‍💻
+Growing as a developer 🌱
 
 <!--
 **MrGonci/MrGonci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
