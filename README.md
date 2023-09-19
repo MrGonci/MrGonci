@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 **Learning:** C++
+💻 **Learning:** C++\
 📌 **Fun fact:** Capybaras are the most friendly animal.<br>
 
 # 💻 Tech Stack:
