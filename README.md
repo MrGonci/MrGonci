@@ -6,7 +6,7 @@
 <hr>
 <br>
 
-<h4 align="center">**Fun fact** Capybaras are the most friendly animal.</h3>
+<h4 align="center">Capybaras are the most friendly animal.</h3>
 
 <p align="left">
 </p>
