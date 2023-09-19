@@ -1,12 +1,6 @@
 <h3 align="center">Gonci.</h3>
-
 <h3 align="center">I'm just a developer, 18 years old man from Spain.</h3>
-
-<br>
-<hr>
-<br>
-
-<h4 align="center">Capybaras are the most friendly animal.</h3>
+<h5 align="center">Capybaras are the most friendly animal.</h3>
 
 <p align="left">
 </p>
