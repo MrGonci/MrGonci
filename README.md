@@ -1,8 +1,8 @@
  # 💫 About Me:
-🔭 I’m currently working on: [RoyalSideRP](discord.gg/DcBfDGVedT)<br>
-🌱 I’m currently learning: ReactJS<br>
-📫 How to reach me: [RedDo Community](discord.gg/DcBfDGVedT) or [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
-⚡ Fun fact: Capybaras are the most friendly animals. 
+🔭 **I’m currently working on:** [RoyalSideRP](discord.gg/DcBfDGVedT)<br>
+🌱 **I’m currently learning**: ReactJS<br>
+📫 **How to reach me:** [RedDo Community](discord.gg/DcBfDGVedT) or [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
+👾 **Fun fact:** Capybaras are the most friendly animals. 
 
 ## 🌐 Connect with me:
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrgonci)
