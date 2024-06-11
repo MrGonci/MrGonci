@@ -1,7 +1,7 @@
  # 💫 About Me:
-🔭 **I’m currently working on:** [RoyalSideRP](discord.gg/DcBfDGVedT)<br>
+🔭 **I’m currently working on:** [RoyalSideRP](https:/discord.gg/DcBfDGVedT)<br>
 🌱 **I’m currently learning**: ReactJS<br>
-📫 **How to reach me:** [RedDo Community](discord.gg/DcBfDGVedT) or [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
+📫 **How to reach me:** [RedDo Community](https:/discord.gg/DcBfDGVedT) or [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
 👾 **Fun fact:** Capybaras are the most friendly animals. 
 
 ## 🌐 Connect with me:
