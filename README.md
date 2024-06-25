@@ -1,4 +1,4 @@
- # 💫 About Me:
+# 💫 About Me:
 🔭 **I’m currently working on:** [RoyalSideRP](https://discord.gg/DcBfDGVedT)<br>
 🌱 **I’m currently learning**: ReactJS<br>
 📫 **How to reach me:** [RedDo Community](https://discord.gg/DcBfDGVedT) or [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
