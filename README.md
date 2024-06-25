@@ -25,6 +25,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-[![](http://github-readme-stats.vercel.app/api?username=MrGonci&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>](https://github-readme-stats.vercel.app/api?username=MrGonci&theme=dark&hide_border=false&include_all_commits=true&count_private=true&a)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrGonci&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mrgonci&theme=tokyonight&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGonci&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
