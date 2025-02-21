@@ -1,5 +1,10 @@
-# 💫 About Me:
-* 🌍  I'm based in Spain
+# Hi 👋 My name is David a.k.a Gonci
+<hr/>
+
+I've been programming since I was 15, starting in 2020. Over the years, I've explored various languages and technologies, with a primary focus on cybersecurity, ethical hacking, and pentesting.
+
+## 💫 About Me:
+* 🌍  **I'm based in Spain**
 * 🔭 **I’m currently working on:** [Pledger](https://github.com/Pledger-TM)<br>
 * 🌱 **I’m currently learning**: Go Lang<br>
 * 📫 **How to reach me:** [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
@@ -10,6 +15,7 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mrgonci)
 [![dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mrgonci)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25514478)
+[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/davidgonzalezlozano/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
