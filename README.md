@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔭 **I’m currently working on:** [Pledger](https://github.com/Pledger-TM)<br>
-🌱 **I’m currently learning**: Go Lang<br>
-📫 **How to reach me:** [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
-👾 **Fun fact:** Capybaras are the most friendly animals. 
+* 🌍  I'm based in Spain
+* 🔭 **I’m currently working on:** [Pledger](https://github.com/Pledger-TM)<br>
+* 🌱 **I’m currently learning**: Go Lang<br>
+* 📫 **How to reach me:** [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
+* 👾 **Fun fact:** Capybaras are the most friendly animals. 
 
 ## 🌐 Connect with me:
 [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrgonci)
