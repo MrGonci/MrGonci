@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 **I’m currently working on:** [Pledger](https://github.com/Pledger-TM)<br>
+🔭 **I’m currently working on:** [Pledger](https://github.com/Pledger-TM)<br>
 🌱 **I’m currently learning**: Go Lang<br>
 📫 **How to reach me:** [goncii.contacto@gmail.com](mailto:goncii.contacto@gmail.com)<br>
 👾 **Fun fact:** Capybaras are the most friendly animals. 
